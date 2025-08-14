@@ -48,8 +48,6 @@ function App() {
             )
           }
         </div>
-        <br />
-        <br />
         <FooterPage/>
     </div>
   )
